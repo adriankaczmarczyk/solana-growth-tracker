@@ -1,6 +1,6 @@
 # Solana Growth Tracker
 
-Snapshot: `2026-09-22T22:26:08+00:00` · source: [DefiLlama](https://defillama.com/chain/Solana)
+Snapshot: `2026-09-22T22:31:54+00:00` · source: [DefiLlama](https://defillama.com/chain/Solana)
 
 ## Chain overview
 
@@ -40,8 +40,8 @@ Momentum blends TVL, volume and fee growth into a single 0-100 score (50 = flat)
 | 18 | Marinade Native | Staking Pool | 77.0 | breakout | $450.55M | - | +33.2% | - | +64.2% |
 | 19 | Save SOL | Liquid Staking | 75.4 | breakout | $7.20M | - | - | - | +50.5% |
 | 20 | Pacifica Perps | Derivatives | 75.3 | breakout | $24.97M | - | - | - | +318.0% |
-| 21 | Raydium AMM | Dexs | 74.9 | breakout | $1.34B | $7.89B | +28.4% | -7.7% | +311.5% |
-| 22 | Save | Lending | 74.9 | breakout | $95.77M | - | +19.3% | - | +90.0% |
+| 21 | Raydium AMM | Dexs | 75.0 | breakout | $1.34B | $7.89B | +28.7% | -7.7% | +311.5% |
+| 22 | Save | Lending | 74.9 | breakout | $95.77M | - | +19.0% | - | +90.0% |
 | 23 | Meteora Dynamic Bonding Curve | Launchpad | 74.7 | breakout | - | $346.85M | - | +26.5% | +23.8% |
 | 24 | BisonFi | Dexs | 74.4 | breakout | $21.54M | $9.50B | - | +34.7% | - |
 | 25 | Hubra Staked SOL | Liquid Staking | 74.2 | breakout | $18.67M | - | - | - | +39.4% |
@@ -51,20 +51,20 @@ Momentum blends TVL, volume and fee growth into a single 0-100 score (50 = flat)
 | # | Protocol | Category | TVL | 1d | 7d | 30d |
 |---|---|---|---|---|---|---|
 | 1 | Sanctum Validator LSTs | Liquid Staking | $1.88B | -1.1% | +23.6% | +32.4% |
-| 2 | Kamino Lend | Lending | $1.43B | +0.8% | +7.3% | +19.7% |
-| 3 | Raydium AMM | Dexs | $1.34B | +0.9% | +22.0% | +28.4% |
+| 2 | Kamino Lend | Lending | $1.43B | +0.8% | +7.3% | +19.6% |
+| 3 | Raydium AMM | Dexs | $1.34B | +0.9% | +22.0% | +28.7% |
 | 4 | Jito Liquid Staking | Liquid Staking | $1.22B | -0.9% | +20.8% | +27.7% |
-| 5 | Binance Staked SOL | Liquid Staking | $1.21B | -2.2% | +19.0% | +25.0% |
+| 5 | Binance Staked SOL | Liquid Staking | $1.21B | -2.2% | +19.0% | +24.9% |
 | 6 | Jupiter Lend | Lending | $1.18B | -2.1% | +10.0% | +11.2% |
 | 7 | Jupiter Perpetual Exchange | Derivatives | $819.90M | -0.5% | +11.8% | +10.5% |
 | 8 | Jupiter Staked SOL | Liquid Staking | $610.02M | -0.8% | +20.4% | +24.6% |
 | 9 | Marinade Native | Staking Pool | $450.55M | +0.6% | +20.7% | +33.2% |
 | 10 | PumpSwap | Dexs | $381.84M | +1.7% | +17.3% | +20.3% |
 | 11 | Sentora Curator | Risk Curators | $363.15M | -0.4% | +13.0% | -0.7% |
-| 12 | Drift Staked SOL | Liquid Staking | $332.49M | -0.8% | +20.6% | +24.8% |
+| 12 | Drift Staked SOL | Liquid Staking | $332.49M | -0.8% | +20.6% | +24.1% |
 | 13 | OnRe | RWA | $302.66M | +0.0% | +0.7% | +10.0% |
 | 14 | Orca DEX | Dexs | $293.61M | +2.6% | +18.2% | +13.3% |
-| 15 | Marinade Liquid Staking | Liquid Staking | $273.74M | -0.9% | +19.7% | +21.7% |
+| 15 | Marinade Liquid Staking | Liquid Staking | $273.74M | -0.9% | +19.7% | +21.0% |
 | 16 | Sanctum Infinity | Dexs | $227.20M | -0.7% | +21.3% | +22.5% |
 | 17 | Solstice | Basis Trading | $218.09M | -1.0% | -7.2% | -46.1% |
 | 18 | CCIP | Bridge | $210.56M | +1.4% | +4.4% | +181.9% |
@@ -91,8 +91,8 @@ Momentum blends TVL, volume and fee growth into a single 0-100 score (50 = flat)
 | 9 | Tessera V | $155.45M | $3.39B | -6.2% | - |
 | 10 | Scorch | $150.64M | $2.57B | +4.5% | - |
 | 11 | OKX Swap | $146.15M | $3.79B | +14.8% | - |
-| 12 | fomo Wallet | $139.60M | $7.71B | -35.2% | $936.63K |
-| 13 | Manifest Trade | $136.54M | $4.07B | -2.1% | - |
+| 12 | fomo Wallet | $138.49M | $7.71B | -35.2% | $936.63K |
+| 13 | Manifest Trade | $136.43M | $4.07B | -2.1% | - |
 | 14 | pump.fun | $122.17M | $2.65B | +36.2% | $1.73M |
 | 15 | Axiom | $107.97M | $2.47B | +19.3% | $2.30M |
 | 16 | Jupiterz | $80.84M | $1.84B | +44.5% | - |
@@ -100,7 +100,7 @@ Momentum blends TVL, volume and fee growth into a single 0-100 score (50 = flat)
 | 18 | StonkFun | $63.03M | $423.09M | +27.4% | $1.81M |
 | 19 | AlphaQ | $56.64M | $1.67B | -10.4% | $566 |
 | 20 | HumidiFi | $49.34M | $3.34B | +30.3% | $275 |
-| 21 | Deriverse | $45.20M | $1.40B | +28.6% | - |
+| 21 | Deriverse | $45.41M | $1.40B | +28.6% | - |
 | 22 | SolFi V2 | $41.96M | $904.40M | +22.4% | - |
 | 23 | Titan Exchange | $37.69M | $741.90M | +1.5% | - |
 | 24 | GMGN | $33.59M | $399.26M | +20.8% | $332.96K |
