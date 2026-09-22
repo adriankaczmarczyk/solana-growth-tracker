@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Solana Growth Tracker</title>
+<meta name="description" content="TVL, DEX volume and fee growth across the Solana ecosystem.">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='4' fill='%239945ff'/></svg>">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Solana Growth Tracker</h1>
+    <span class="stamp" id="stamp">loading…</span>
+  </header>
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="chart-card">
+    <div class="chart-head">
+      <h2>Chain TVL</h2>
+      <div class="range" id="range">
+        <button data-days="30">30D</button>
+        <button data-days="90" class="on">90D</button>
+        <button data-days="365">1Y</button>
+        <button data-days="0">All</button>
+      </div>
+    </div>
+    <div id="chain-chart"></div>
+  </section>
+
+  <div class="controls">
+    <div class="tabs" id="tabs">
+      <button data-sort="momentum" class="on">Fastest growing</button>
+      <button data-sort="tvl">Biggest TVL</button>
+      <button data-sort="volume_24h">Highest volume</button>
+      <button data-sort="fees_30d">Most fees</button>
+    </div>
+    <input type="search" id="search" placeholder="Search protocol…" autocomplete="off">
+    <select id="category"><option value="">All categories</option></select>
+    <label class="check"><input type="checkbox" id="small"> include small protocols</label>
+    <span class="stamp" id="count"></span>
+  </div>
+
+  <div class="table-card">
+    <table>
+      <thead><tr id="head"></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No protocol matches those filters.</div>
+  </div>
+
+  <footer>
+    Data from <a href="https://defillama.com/chain/Solana" rel="noopener">DefiLlama</a> ·
+    momentum blends TVL, volume and fee growth into a 0-100 score (50 = flat) ·
+    <a href="data/protocols.csv">CSV</a> · <a href="data/snapshot.json">JSON</a>
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+default:
+  image: python:3.12-slim
+
+stages:
+  - test
+  - deploy
+
+tests:
+  stage: test
+  script:
+    - python -m unittest discover -s tests
+
+# GitLab Pages regenerates the snapshot at build time rather than committing it
+# back, so this job needs no push token.
+pages:
+  stage: deploy
+  script:
+    - PYTHONPATH=src python -m soltracker export --no-cache
+    - cp -r web public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_PIPELINE_SOURCE == "schedule"

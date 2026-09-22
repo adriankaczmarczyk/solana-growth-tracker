@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "solana-growth-tracker"
+version = "1.0.0"
+description = "Track TVL, DEX volume and fee growth across the Solana ecosystem"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["solana", "defi", "tvl", "defillama", "analytics"]
+dependencies = []
+
+[project.scripts]
+soltracker = "soltracker.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
