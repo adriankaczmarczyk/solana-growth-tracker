@@ -1,18 +1,18 @@
 # Solana Growth Tracker
 
-Snapshot: `2026-10-21T11:54:07+00:00` · source: [DefiLlama](https://defillama.com/chain/Solana)
+Snapshot: `2026-10-22T11:57:40+00:00` · source: [DefiLlama](https://defillama.com/chain/Solana)
 
 ## Chain overview
 
 | Metric | Value | Change |
 |---|---|---|
-| Chain TVL | $6.00B | 7d -0.3% |
-| Chain TVL (30d) | $6.00B | 30d -3.0% |
-| DEX volume 24h | $2.44B | 7d/7d +1.3% |
-| DEX volume 7d | $14.30B |  |
-| Aggregator volume 24h | $1.10B | 7d/7d +2.7% |
-| Fees 24h | $13.16M |  |
-| Fees 30d | $443.82M |  |
+| Chain TVL | $5.91B | 7d -0.4% |
+| Chain TVL (30d) | $5.91B | 30d -8.1% |
+| DEX volume 24h | $2.27B | 7d/7d +3.0% |
+| DEX volume 7d | $14.45B |  |
+| Aggregator volume 24h | $1.10B | 7d/7d +2.6% |
+| Fees 24h | $11.89M |  |
+| Fees 30d | $436.93M |  |
 
 ## Fastest growing protocols
 
@@ -20,91 +20,91 @@ Momentum blends TVL, volume and fee growth into a single 0-100 score (50 = flat)
 
 | # | Protocol | Category | Score | Trend | TVL | Vol 30d | TVL 30d | Vol 7d/7d | Fees 30d |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | LiquidMesh | DEX Aggregator | 99.5 | breakout | - | $243.21M | - | +301.9% | - |
-| 2 | Collector Crypt | Physical TCG | 91.4 | breakout | - | $181.60M | - | +84.8% | +81.5% |
-| 3 | Whalestreet | Dexs | 85.6 | breakout | - | $186.77M | - | +131.0% | - |
-| 4 | HawkFi | Liquidity Manager | 73.1 | breakout | $879.67K | - | - | - | +84.9% |
-| 5 | marginfi Lending | Lending | 71.7 | breakout | $36.78M | - | - | - | +106.9% |
-| 6 | pump.fun Mobile App | Interface | 70.3 | breakout | - | $534.58M | - | +0.8% | +50.5% |
-| 7 | pump.fun | Launchpad | 69.1 | growing | - | $4.74B | - | -7.9% | +37.0% |
-| 8 | Forward Industries SOL | Liquid Staking | 68.1 | growing | $296.09M | - | - | - | +30.0% |
-| 9 | Meteora Dynamic Bonding Curve | Launchpad | 67.1 | growing | - | $477.50M | - | -29.4% | +222.9% |
-| 10 | Hylo Protocol | Dual-Token Stablecoin | 66.0 | growing | $39.87M | - | - | - | +45.4% |
-| 11 | Huma | RWA | 64.4 | growing | $253.76M | - | +24.7% | - | +38.8% |
-| 12 | Neutral Trade | Onchain Capital Allocator | 64.0 | growing | $21.09M | - | - | - | +38.8% |
-| 13 | Streamflow | Payments | 63.0 | growing | $15.61M | $37.17M | - | +951.8% | -12.9% |
-| 14 | marginfi LST | Liquid Staking | 62.9 | growing | $10.03M | - | - | - | +35.6% |
-| 15 | CCIP | Bridge | 62.8 | growing | $257.37M | - | +28.5% | - | - |
-| 16 | Bitget SOL | Liquid Staking | 62.4 | growing | $36.67M | - | - | - | +89.2% |
-| 17 | GMGN | Trading App | 62.4 | growing | - | $675.04M | - | -16.9% | +20.1% |
-| 18 | Deriverse | Dexs | 62.2 | growing | $367.64K | $1.32B | +129.9% | -5.8% | - |
-| 19 | Binance Wallet | Wallets | 62.2 | growing | - | $260.52M | - | +11.3% | - |
-| 20 | Scorch | Dexs | 61.3 | growing | $4.28M | $2.49B | +45.2% | +11.7% | - |
-| 21 | Phoenix Perp | Derivatives | 61.1 | growing | $23.74M | - | - | - | +28.1% |
-| 22 | GMX Solana | Derivatives | 61.0 | growing | $26.23M | - | - | - | +32.6% |
-| 23 | Sentora Curator | Risk Curators | 60.6 | growing | $432.14M | - | +18.6% | - | +21.3% |
-| 24 | DFDV Staked SOL | Liquid Staking | 60.6 | growing | $216.27M | - | +20.7% | - | - |
-| 25 | Loopscale Lending | Lending | 60.3 | growing | $93.62M | - | +26.0% | - | +1.2% |
+| 1 | LiquidMesh | DEX Aggregator | 99.7 | breakout | - | $259.25M | - | +213.9% | - |
+| 2 | Collector Crypt | Physical TCG | 91.1 | breakout | - | $183.84M | - | +99.3% | +73.9% |
+| 3 | HawkFi | Liquidity Manager | 77.7 | breakout | $914.88K | - | - | - | +73.2% |
+| 4 | marginfi Lending | Lending | 73.5 | breakout | $35.95M | - | - | - | +97.0% |
+| 5 | Binance Wallet | Wallets | 72.4 | breakout | - | $274.28M | - | +32.7% | - |
+| 6 | pump.fun Mobile App | Interface | 71.3 | breakout | - | $538.83M | - | +5.4% | +49.2% |
+| 7 | Forward Industries SOL | Liquid Staking | 70.8 | breakout | $292.17M | - | - | - | +35.5% |
+| 8 | pump.fun | Launchpad | 69.3 | growing | - | $4.77B | - | -7.0% | +36.9% |
+| 9 | Huma | RWA | 68.2 | growing | $258.30M | - | +45.4% | - | +36.9% |
+| 10 | Meteora Dynamic Bonding Curve | Launchpad | 67.4 | growing | - | $471.56M | - | -24.2% | +223.1% |
+| 11 | marginfi LST | Liquid Staking | 65.2 | growing | $9.89M | - | - | - | +40.0% |
+| 12 | Hylo Protocol | Dual-Token Stablecoin | 64.5 | growing | $38.96M | - | - | - | +41.2% |
+| 13 | Streamflow | Payments | 64.1 | growing | $15.59M | $37.51M | - | +979.5% | -11.4% |
+| 14 | CCIP | Bridge | 63.7 | growing | $259.77M | - | +29.7% | - | - |
+| 15 | GMX Solana | Derivatives | 62.9 | growing | $26.51M | - | - | - | +35.4% |
+| 16 | Scorch | Dexs | 62.9 | growing | $4.25M | $2.45B | +40.5% | +11.8% | - |
+| 17 | GMGN | Trading App | 62.9 | growing | - | $664.97M | - | -6.1% | +13.1% |
+| 18 | Neutral Trade | Onchain Capital Allocator | 62.2 | growing | $21.04M | - | - | - | +33.8% |
+| 19 | DFDV Staked SOL | Liquid Staking | 62.0 | growing | $222.47M | - | +17.7% | - | - |
+| 20 | Phoenix Perp | Derivatives | 61.7 | growing | $23.91M | - | - | - | +28.8% |
+| 21 | Bitget SOL | Liquid Staking | 60.4 | growing | $32.50M | - | - | - | +89.3% |
+| 22 | Deriverse | Dexs | 59.5 | growing | $312.93K | $1.32B | +47.9% | -1.9% | - |
+| 23 | Sentora Curator | Risk Curators | 59.4 | growing | $417.40M | - | +14.9% | - | +20.4% |
+| 24 | Loopscale Lending | Lending | 59.3 | growing | $92.59M | - | +22.1% | - | +1.3% |
+| 25 | Project 0 | Lending | 58.1 | growing | $60.78M | - | -10.7% | - | +50.7% |
 
 ## Largest protocols by TVL
 
 | # | Protocol | Category | TVL | 1d | 7d | 30d |
 |---|---|---|---|---|---|---|
-| 1 | Sanctum Validator LSTs | Liquid Staking | $1.85B | +2.5% | +2.3% | +3.3% |
-| 2 | Kamino Lend | Lending | $1.34B | +1.8% | +1.0% | -1.8% |
-| 3 | Raydium AMM | Dexs | $1.20B | +2.4% | -0.5% | -4.9% |
-| 4 | Binance Staked SOL | Liquid Staking | $1.11B | +2.3% | +1.2% | -4.9% |
-| 5 | Jito Liquid Staking | Liquid Staking | $1.11B | +1.8% | -1.3% | -3.9% |
-| 6 | Jupiter Lend | Lending | $1.04B | +2.1% | -5.3% | -6.8% |
-| 7 | Jupiter Perpetual Exchange | Derivatives | $746.71M | +1.8% | -1.1% | -5.8% |
-| 8 | Jupiter Staked SOL | Liquid Staking | $555.92M | +2.3% | +0.1% | -3.0% |
-| 9 | Sentora Curator | Risk Curators | $432.14M | +0.1% | -0.8% | +18.6% |
-| 10 | Marinade Native | Staking Pool | $380.61M | +1.3% | -3.2% | -10.2% |
-| 11 | PumpSwap | Dexs | $356.65M | +3.2% | -0.5% | -3.1% |
-| 12 | Orca DEX | Dexs | $305.26M | +1.8% | +0.9% | +9.9% |
-| 13 | Forward Industries SOL | Liquid Staking | $296.09M | +2.2% | +16.0% | - |
-| 14 | Drift Staked SOL | Liquid Staking | $295.51M | +2.1% | -0.7% | -5.6% |
-| 15 | OnRe | RWA | $293.97M | -0.0% | +0.4% | -3.4% |
-| 16 | CCIP | Bridge | $257.37M | +2.0% | +3.0% | +28.5% |
-| 17 | Huma | RWA | $253.76M | -0.1% | -6.2% | +24.7% |
-| 18 | Marinade Liquid Staking | Liquid Staking | $239.96M | +2.1% | -1.6% | -7.0% |
-| 19 | DFDV Staked SOL | Liquid Staking | $216.27M | +2.2% | +4.9% | +20.7% |
-| 20 | Solstice | Basis Trading | $209.26M | -0.0% | +0.0% | -10.0% |
-| 21 | Sanctum Infinity | Dexs | $202.69M | +1.5% | +1.0% | -5.2% |
-| 22 | Phantom SOL | Liquid Staking | $171.58M | +2.2% | -0.9% | -4.3% |
-| 23 | Meteora DLMM | Dexs | $166.59M | +2.9% | -1.4% | -13.3% |
-| 24 | Bybit Staked SOL | Liquid Staking | $151.44M | +4.2% | +0.4% | +7.5% |
-| 25 | Marinade Select | Staking Pool | $138.73M | -1.8% | -5.7% | -33.9% |
+| 1 | Sanctum Validator LSTs | Liquid Staking | $1.83B | -0.9% | +5.5% | -3.3% |
+| 2 | Kamino Lend | Lending | $1.33B | -1.3% | +1.1% | -6.7% |
+| 3 | Raydium AMM | Dexs | $1.17B | -2.0% | +0.9% | -11.5% |
+| 4 | Binance Staked SOL | Liquid Staking | $1.09B | -3.0% | +2.8% | -10.7% |
+| 5 | Jito Liquid Staking | Liquid Staking | $1.09B | -1.5% | +1.0% | -11.3% |
+| 6 | Jupiter Lend | Lending | $1.03B | -1.3% | -7.0% | -11.6% |
+| 7 | Jupiter Perpetual Exchange | Derivatives | $730.67M | -2.7% | -0.1% | -11.5% |
+| 8 | Jupiter Staked SOL | Liquid Staking | $548.21M | -2.4% | +2.0% | -10.7% |
+| 9 | Sentora Curator | Risk Curators | $417.40M | -1.1% | -0.9% | +14.9% |
+| 10 | Marinade Native | Staking Pool | $372.65M | -2.9% | -1.1% | -17.3% |
+| 11 | PumpSwap | Dexs | $348.96M | -1.7% | +1.8% | -7.4% |
+| 12 | Orca DEX | Dexs | $306.34M | +0.5% | +3.6% | +7.5% |
+| 13 | OnRe | RWA | $295.04M | +0.4% | +1.1% | -2.5% |
+| 14 | Forward Industries SOL | Liquid Staking | $292.17M | -1.3% | +18.6% | - |
+| 15 | Drift Staked SOL | Liquid Staking | $291.46M | -2.1% | +1.6% | -12.8% |
+| 16 | CCIP | Bridge | $259.77M | -0.3% | +4.3% | +29.7% |
+| 17 | Huma | RWA | $258.30M | +0.6% | -7.2% | +45.4% |
+| 18 | Marinade Liquid Staking | Liquid Staking | $234.66M | -3.1% | -0.5% | -14.9% |
+| 19 | DFDV Staked SOL | Liquid Staking | $222.47M | +2.9% | +11.5% | +17.7% |
+| 20 | Solstice | Basis Trading | $203.25M | -2.9% | -2.9% | -7.7% |
+| 21 | Sanctum Infinity | Dexs | $200.14M | -1.3% | +3.7% | -12.8% |
+| 22 | Phantom SOL | Liquid Staking | $169.36M | -1.3% | +2.5% | -11.4% |
+| 23 | Meteora DLMM | Dexs | $164.57M | -0.5% | +1.1% | -15.6% |
+| 24 | Bybit Staked SOL | Liquid Staking | $148.61M | -2.9% | +2.1% | +0.5% |
+| 25 | Marinade Select | Staking Pool | $136.82M | -1.4% | -2.5% | -30.8% |
 
 ## Highest volume protocols
 
 | # | Protocol | Volume 24h | Volume 30d | Vol 7d/7d | Fees 24h |
 |---|---|---|---|---|---|
-| 1 | Jupiter Aggregator | $604.37M | $13.20B | -2.0% | $70.01K |
-| 2 | PumpSwap | $396.96M | $10.36B | +10.7% | $3.29M |
-| 3 | BisonFi | $340.98M | $8.70B | +16.3% | - |
-| 4 | DFlow Aggregator | $313.64M | $8.97B | +9.7% | - |
-| 5 | Orca DEX | $278.42M | $8.69B | +6.8% | $257.54K |
-| 6 | Raydium AMM | $177.01M | $6.92B | -1.1% | $374.99K |
-| 7 | pump.fun | $166.39M | $4.74B | -7.9% | $2.08M |
-| 8 | Meteora DLMM | $139.28M | $4.68B | -7.3% | $473.16K |
-| 9 | Scorch | $138.56M | $2.49B | +11.7% | - |
-| 10 | Tessera V | $133.58M | $3.37B | +6.3% | - |
-| 11 | Manifest Trade | $123.77M | $3.39B | -27.9% | - |
-| 12 | OKX Swap | $104.29M | $3.77B | +4.8% | - |
-| 13 | GoonFi | $82.24M | $2.43B | -4.0% | - |
-| 14 | Axiom | $79.00M | $2.60B | -22.5% | $907.80K |
-| 15 | fomo Wallet | $57.83M | $3.30B | -28.4% | $252.15K |
-| 16 | HumidiFi | $55.69M | $1.19B | -33.7% | $0 |
-| 17 | Whalestreet | $50.39M | $186.77M | +131.0% | - |
-| 18 | Jupiterz | $48.69M | $1.74B | +4.7% | - |
-| 19 | Deriverse | $47.92M | $1.32B | -5.8% | - |
-| 20 | SolFi V2 | $37.03M | $1.02B | -4.3% | - |
-| 21 | Titan Exchange | $35.29M | $1.15B | -18.5% | - |
-| 22 | AlphaQ | $33.65M | $1.02B | -7.8% | $336 |
-| 23 | ZeroFi | $31.31M | $778.53M | +15.1% | - |
-| 24 | LiquidMesh | $24.77M | $243.21M | +301.9% | - |
-| 25 | PancakeSwap AMM V3 | $20.30M | $420.88M | +9.3% | $3.39K |
+| 1 | Jupiter Aggregator | $627.42M | $13.16B | +1.7% | $50.75K |
+| 2 | BisonFi | $380.46M | $8.64B | +7.2% | - |
+| 3 | DFlow Aggregator | $304.78M | $8.90B | +5.2% | - |
+| 4 | PumpSwap | $293.40M | $10.26B | +13.9% | $3.46M |
+| 5 | Orca DEX | $262.33M | $8.48B | +4.6% | $290.10K |
+| 6 | Tessera V | $191.53M | $3.40B | +15.8% | - |
+| 7 | Raydium AMM | $161.96M | $6.54B | +6.5% | $289.41K |
+| 8 | pump.fun | $152.91M | $4.77B | -7.0% | $2.00M |
+| 9 | Meteora DLMM | $131.39M | $4.56B | -0.6% | $547.07K |
+| 10 | Manifest Trade | $127.59M | $3.40B | -15.3% | - |
+| 11 | Scorch | $112.07M | $2.45B | +11.8% | - |
+| 12 | OKX Swap | $87.41M | $3.72B | -1.8% | - |
+| 13 | HumidiFi | $67.41M | $1.20B | -32.8% | $1.17K |
+| 14 | GoonFi | $57.92M | $2.33B | -8.0% | - |
+| 15 | Axiom | $56.05M | $2.55B | -13.8% | $883.44K |
+| 16 | Deriverse | $55.31M | $1.32B | -1.9% | - |
+| 17 | fomo Wallet | $53.71M | $3.20B | -28.0% | $275.86K |
+| 18 | Jupiterz | $52.51M | $1.71B | +13.2% | - |
+| 19 | SolFi V2 | $32.60M | $1.01B | -1.3% | - |
+| 20 | AlphaQ | $32.47M | $998.93M | -2.0% | $325 |
+| 21 | Titan Exchange | $32.31M | $1.14B | -20.2% | - |
+| 22 | ZeroFi | $31.61M | $772.06M | +23.2% | - |
+| 23 | GMGN | $23.53M | $664.97M | -6.1% | $172.51K |
+| 24 | Binance Wallet | $21.00M | $274.28M | +32.7% | - |
+| 25 | LiquidMesh | $20.06M | $259.25M | +213.9% | - |
 
 ---
 
